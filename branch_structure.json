@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/wire-tracing-sampling",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/wire-tracing-sampling": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/wire-tracing-sampling",
+    "origin"
+  ]
+}
